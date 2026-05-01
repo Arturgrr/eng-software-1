@@ -12,9 +12,9 @@ A **Central de Ocorrência Integrada (COI)** é um sistema web full-stack desenv
 ## 👥 Equipe
 
 - **Artur Assis Guerra** — Full Stack Developer  
-- **Eduardo Christianini Fonseca Junior** — Full Stack Developer  
-- **Vanderson Guimarães da Silva** — Full Stack Developer  
-- **Ícaro Lopes dos Santos Santana** — Full Stack Developer  
+- **Eduardo Christianini Fonseca Junior** — Full Stack Developer e Product Owner
+- **Vanderson Guimarães da Silva** — Back end Developer  
+- **Ícaro Lopes dos Santos Santana** — Front end Developer  
 
 ---
 
